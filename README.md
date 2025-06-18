@@ -13,4 +13,6 @@ stage : When a file is added it is called staged..
 <br>
 commit : After stage ... ( Unchanged !)
 <br>
+Push command --> To push the changes done in Local - Remote (Command : git push origin main)
+<br>
 Author - AkashxOp
